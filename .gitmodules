@@ -1,0 +1,6 @@
+[submodule "ui"]
+	path = ui
+	url = https://github.com/OVVE/software-ui.git
+[submodule "controller"]
+	path = controller
+	url = https://github.com/OVVE/software-controller.git
